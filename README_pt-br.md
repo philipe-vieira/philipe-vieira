@@ -52,10 +52,10 @@
 **Tecnologias:** Sistema Operacional Windows, Active Directory (AD), TCP/IP e DNS, Ferramentas de suporte remoto, Switches e roteadores (configuração básica), Firewall e VPN (configuração e monitoramento básico), Impressoras em rede, Pacotes de antivírus e ferramentas de segurança.
 
 ## Projetos
-### [React Calculator](https://github.com/philipe-vieira/)
-### [Proffy](https://github.com/philipe-vieira/)
-### [Reactflix](https://github.com/philipe-vieira/)
-### [Python Compiler](https://github.com/philipe-vieira/)
+### [React Calculator](https://github.com/philipe-vieira/CalculadoraReact)
+### [Proffy](https://github.com/philipe-vieira/proffy)
+### [Reactflix](https://github.com/philipe-vieira/reactflix)
+### [Python Compiler](https://github.com/philipe-vieira/compiladores_20222)
 <!-- - Terminal (when press ctrl+k show terminal `>_` ) -->
 
 <!-- ## Skills -->
