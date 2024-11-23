@@ -1,7 +1,6 @@
 <h3 style="text-align: center; margin-bottom: 0px; padding: 0px">Hey, there! 👋 Welcome! I'm- </h3>
 <h1 style="text-align: center; font-weight: bolder; font-size: 350%; margin: 0px; padding: 0px">Philipe Vieira</h1>
-<h2 style="text-align: center">i'm glad you're here!</h2>
-
+<p style="text-align: center; text-decoration: none">I'm glad you're here!</p>
 
 ##### [Ler em Português](README_pt-br.md)
 
