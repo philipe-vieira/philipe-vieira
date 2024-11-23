@@ -16,46 +16,6 @@
     </div>
 </div>
 
-
-## Carreer
-
-### [AP Professional](https://www.anapaulacarvalho.com/) - Pleno Software Developer I
-*JUN/2024 - OCT/2024, Teresina-PI*  
-> I participated in the development of a robust REST API for ecommerce, integrating external APIs, optimizing processes asynchronously, and ensuring efficiency, security, and stability. Additionally, I developed essential skills such as flexibility to face unforeseen challenges and rapid adaptation to changes, which are crucial for success in a dynamic professional environment.  
-
-**Technologies:** REST API, PHP, Laravel, MySQL, Postgres, Redis, Nginx, Docker, AWS Services, Queues, Caching, WebSockets, WebHooks, Git, BitBucket, Agile Methods.
-
----
-
-### [STS Informática](https://stsinformatica.com.br/) - Junior Software Developer
-*NOV/2021 - JUN/2024, Teresina-PI*  
-> I contributed as a full-stack developer in various projects, ranging from a complex ERP to microservices and automation with Bash scripts. I had the opportunity to contribute directly to the architecture and development of new modules for the ERP, in addition to focusing on optimizing and continuously improving various features. Throughout this work, I provided innovative and efficient solutions by applying best development practices and using cutting-edge technologies to enhance the performance and scalability of the systems.  
-
-**Technologies:** ERP, Microservices, PHP, Laravel, Postgres, RabbitMQ, Docker, Linux Server, ShellScript, Queues, JQuery, Bootstrap, Vue.js, Git, Code Refactoring, Design Patterns.
-
----
-
-### [Kazoly Plásticos]() - IT Manager
-*SEP/2020 - JUN/2021, Teresina-PI*  
-> I worked in the industry managing the IT department, where I was responsible for the administration and monitoring of local networks, ensuring the stability and security of the systems. I also participated in the configuration and management of servers, ensuring their proper functioning and performance. Focusing on efficiency and quick problem-solving, I contributed to the continuous improvement of the IT infrastructure, ensuring uninterrupted business operations.  
-
-**Technologies:** Windows and Linux Operating Systems, Server Virtualization, Remote Access, Internet Networks, LAN, TCP/IP, VPN, Information Security, Firewall, Antivirus, Backup, Encryption.
-
----
-
-### [Fundação Instituto Brasileiro de Geografia e Estatística - IBGE](https://www.ibge.gov.br/) - Internship
-*JAN/2017 - JAN/2018, Teresina-PI*  
-> I mainly worked in user support and network administration, assisting in troubleshooting and ensuring the continuity of daily operations. In user support, I was responsible for handling service requests and providing technical assistance for issues with operating systems, applications, and hardware. Additionally, I configured new workstations, installed software, and updated systems.  
-
-**Technologies:** Windows Operating System, Active Directory (AD), TCP/IP and DNS, Remote Support Tools, Switches and Routers (basic configuration), Firewall and VPN (basic configuration and monitoring), Network Printers, Antivirus packages and security tools.
-
-## Projects
-### [React Calculator](https://github.com/philipe-vieira/CalculadoraReact)
-### [Proffy](https://github.com/philipe-vieira/proffy)
-### [Reactflix](https://github.com/philipe-vieira/reactflix)
-### [Python Compiler](https://github.com/philipe-vieira/compiladores_20222)
-<!-- - Terminal (when press ctrl+k show terminal `>_` ) -->
-
 <!-- ## Skills -->
 
 ## Connect with me
@@ -79,4 +39,13 @@ like to say "hello", send me a message. I'll love interacting with you.
 [![Static Badge](https://img.shields.io/badge/Telegram-white.svg?logo=telegram)](https://t.me/philipevieira) &nbsp;
 [![Static Badge](https://img.shields.io/badge/Resume-white.svg?logo=googledocs&logoColor=4285F4)](https://drive.google.com/file/d/1jUPjUSN4Yac-RyJS5BmMOTCZpjqiEgXm/view?usp=sharing)
 
+</div>
+
+
+---
+
+<div>
+<a href="https://github.com/philipe-vieira" style="text-align: center; text-decoration: none">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipe-vieira&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=philipe-vieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
