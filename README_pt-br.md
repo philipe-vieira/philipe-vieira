@@ -1,6 +1,6 @@
 <h3 style="text-align: center; margin-bottom: 0px; padding: 0px">Olá! 👋 Seja bem-vindo(a)! Eu sou </h3>
 <h1 style="text-align: center; font-weight: bolder; font-size: 350%; margin: 0px; padding: 0px">Philipe Vieira</h1>
-<h2 style="text-align: center">Fico feliz por você estar aqui!</h2>
+<p style="text-align: center">Fico feliz por você estar aqui!</p>
 
 
 ##### [Read on English](README.md)
@@ -15,7 +15,6 @@
         <p>Além de desenvolvedor, sou músico multi-instrumentista por hobby, e por meio disso aprendi a importância da prática e da dedicação, tanto na música quanto na programação. Também sou um grande apreciador de cinema, e as histórias que encontro nas telas frequentemente me inspiram, de alguma forma, tanto no aspecto criativo quanto na busca por explorar novas formas de resolver problemas profissionalmente.</p>
         <p>Estou sempre em busca de novos desafios, visando adquirir novas experiências, crescer profissionalmente e contribuir para o avanço da tecnologia como um todo.</p>
     </div>
-    <img src="./images/profile unfocused.png" style="object-fit: cover; max-width: 300px; max-height: 300px; height: auto; width: auto; border-radius: 50%; margin: 0px 40px;">
 </div>
 
 
