@@ -50,10 +50,10 @@
 **Technologies:** Windows Operating System, Active Directory (AD), TCP/IP and DNS, Remote Support Tools, Switches and Routers (basic configuration), Firewall and VPN (basic configuration and monitoring), Network Printers, Antivirus packages and security tools.
 
 ## Projects
-### [React Calculator](https://github.com/philipe-vieira/)
-### [Proffy](https://github.com/philipe-vieira/)
-### [Reactflix](https://github.com/philipe-vieira/)
-### [Python Compiler](https://github.com/philipe-vieira/)
+### [React Calculator](https://github.com/philipe-vieira/CalculadoraReact)
+### [Proffy](https://github.com/philipe-vieira/proffy)
+### [Reactflix](https://github.com/philipe-vieira/reactflix)
+### [Python Compiler](https://github.com/philipe-vieira/compiladores_20222)
 <!-- - Terminal (when press ctrl+k show terminal `>_` ) -->
 
 <!-- ## Skills -->
