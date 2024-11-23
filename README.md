@@ -15,7 +15,6 @@
         <p>In addition to being a developer, I am a multi-instrumental musician as a hobby, and through this I learned the importance of practice and dedication, both in music and programming. I'm also a big fan of cinema, and the stories I find on screen often inspire me, in some way, both creatively and in my quest to explore new ways of solving problems professionally.</p>
         <p>I am always looking for new challenges, aiming to acquire new experiences, grow professionally and contribute to the advancement of technology as a whole.</p>
     </div>
-    <img src="./images/profile unfocused.png" style="object-fit: cover; max-width: 300px; max-height: 300px; height: auto; width: auto; border-radius: 50%; margin: 0px 40px;">
 </div>
 
 
